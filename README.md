@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Yuyuyu.
+- 👀 I’m interested in Unity, Python, and Java.
+- 🌱 I’m currently learning game programming
