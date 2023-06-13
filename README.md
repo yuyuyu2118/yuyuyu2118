@@ -3,4 +3,5 @@
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuyu2118&layout=compact&theme=onedark" />
 </p>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuyuyu2118)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118)](https://github.com/ryo-ma/github-profile-trophy)
+
