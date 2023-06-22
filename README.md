@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuyuyu2118&label=Profile%20views&color=0e75b6&style=flat" alt="yuyuyu2118" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118&theme=discord&row=2&column=3&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118&theme=discord&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
