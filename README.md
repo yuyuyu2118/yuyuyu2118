@@ -11,10 +11,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yuyuyu2118&label=Profile%20views&color=0e75b6&style=flat" alt="yuyuyu2118" /> </p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118&theme=discord&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuyuyu2118&" alt="yuyuyu2118" /></p>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118&theme=discord&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 <h3 align="left">Connect with me:</h3>
