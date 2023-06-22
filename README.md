@@ -9,11 +9,9 @@
  <h1 align="center">Hi 👋, I'm yuyuyu2118</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yuyuyu2118&label=Profile%20views&color=0e75b6&style=flat" alt="yuyuyu2118" /> </p>
+<img src="https://komarev.com/ghpvc/?username=yuyuyu2118&label=Profile%20views&color=0e75b6&style=flat" alt="yuyuyu2118" /> </p>
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118&theme=discord&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuyuyu2118&" alt="yuyuyu2118" /></p>
-</p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
@@ -28,3 +26,5 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yuyuyu2118&count_private=true&show_icons=true&theme=tokyonight" />
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuyu2118&layout=compact&theme=onedark" />
 </p>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuyuyu2118&" alt="yuyuyu2118" /></p>
