@@ -1,15 +1,51 @@
-<!-- # My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/yuyuyu2118/posts.svg)](http://qiita.com/yuyuyu2118)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yuyuyu2118/contributions.svg)](http://qiita.com/yuyuyu2118)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/yuyuyu2118/followers.svg)](http://qiita.com/yuyuyu2118)             
- -->
- 
- <h1 align="center">Hi 👋, I'm yuyuyu2118</h1>
+<h1 align="center">Hi 👋, I'm yuyuyu2118</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
-<img src="https://komarev.com/ghpvc/?username=yuyuyu2118&label=Profile%20views&color=0e75b6&style=flat" alt="yuyuyu2118" /> </p>
+<p align="left"> 
+  <a href="https://github.com/yuyuyu2118/yuyuyu2118/">
+    <img src="https://komarev.com/ghpvc/?username=yuyuyu2118" alt="yuyuyu2118" />
+  </a>
+  <a href="http://twitter.com/sasaki7e7">
+    <img height="20" src="https://img.shields.io/twitter/follow/sasaki7e7?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/yuyuyu2118">
+    <img height="20" src="https://img.shields.io/github/followers/yuyuyu2118?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/yuyuyu2118">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yuyuyu2118?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/0000000/yuyuyu2118">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/0000000?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+</p>
+
+<p align="left"> 
+  <a href="https://user-badge.committers.top/japan/yuyuyu2118">
+    <img height="20" src="https://user-badge.committers.top/japan/yuyuyu2118.svg" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://zenn.dev/sasakir">
+    <img height="20" src="https://badgen.org/img/zenn/sasakir/likes?style=plastic" alt="Likes" />
+  </a>
+  <a href="https://zenn.dev/sasakir">
+    <img height="20" src="https://badgen.org/img/zenn/sasakir/followers?style=plastic" alt="Followers" />
+  </a>
+  <a href="https://zenn.dev/sasakir">
+    <img height="20" src="https://badgen.org/img/zenn/sasakir/articles?style=plastic" alt="Articles" />
+  </a>
+  <a href="http://qiita.com/yuyuyu2118">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuyuyu2118/contributions.svg" />
+  </a>
+  <a href="http://qiita.com/yuyuyu2118">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yuyuyu2118/posts.svg" />
+  </a>
+</p>
+
+<div align="left">
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/yuyuyu2118"/>  
+</div>
 
 <!-- Cからしか表示しない
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118&theme=discord&row=2&column=3&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
