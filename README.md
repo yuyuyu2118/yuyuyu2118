@@ -47,6 +47,9 @@
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/yuyuyu2118"/>  
 </div>
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 <!-- Cからしか表示しない
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118&theme=discord&row=2&column=3&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 -->
