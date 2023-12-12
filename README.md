@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yuyuyu2118</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+<h3 align="center">A passionate Full Stack Engineer from Japan</h3>
 
 <p align="left"> 
   <a href="https://github.com/yuyuyu2118/yuyuyu2118/">
