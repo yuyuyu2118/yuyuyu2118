@@ -44,8 +44,8 @@
 </p>
 
 <div align="left">
-  <img width=300 alt="Visitor Stats" src="https://widgetbite.com/stats/yuyuyu2118"/>
-  <img width=300 src="https://github-profile-trophy.vercel.app/?username=yuyuyu2118&row=3&column=3&no-frame=true"/>
+  <img width=400 alt="Visitor Stats" src="https://widgetbite.com/stats/yuyuyu2118"/>
+  <img width=400 src="https://github-profile-trophy.vercel.app/?username=yuyuyu2118&row=3&column=3&no-frame=true"/>
 </div>
 
 <!--START_SECTION:lapras-card-->
