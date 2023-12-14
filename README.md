@@ -44,7 +44,8 @@
 </p>
 
 <div align="left">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/yuyuyu2118"/>  
+  <img width=300 alt="Visitor Stats" src="https://widgetbite.com/stats/yuyuyu2118"/>
+  <img width=300 src="https://github-profile-trophy.vercel.app/?username=yuyuyu2118&row=3&column=3&no-frame=true"/>
 </div>
 
 <!--START_SECTION:lapras-card-->
@@ -53,7 +54,12 @@
 <!-- Cからしか表示しない
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118&theme=discord&row=2&column=3&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118&theme=discord&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuyuyu2118&theme=discord&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=300 src="https://github-profile-trophy.vercel.app/?username=yuyuyu2118&row=3&column=3&no-frame=true"/>
+</a>
+-->
 
 <!--
 <h3 align="left">Connect with me:</h3>
