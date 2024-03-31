@@ -5,18 +5,18 @@
   <a href="https://github.com/yuyuyu2118/yuyuyu2118/">
     <img src="https://komarev.com/ghpvc/?username=yuyuyu2118" alt="yuyuyu2118" />
   </a>
-  <a href="http://twitter.com/sasaki7e7">
+<!--   <a href="http://twitter.com/sasaki7e7">
     <img height="20" src="https://img.shields.io/twitter/follow/sasaki7e7?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  </a> -->
   <a href="https://github.com/yuyuyu2118">
     <img height="20" src="https://img.shields.io/github/followers/yuyuyu2118?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/yuyuyu2118">
+<!--   <a href="https://www.reddit.com/user/yuyuyu2118">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yuyuyu2118?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/0000000/yuyuyu2118">
+  </a> -->
+<!--   <a href="https://stackoverflow.com/users/0000000/yuyuyu2118">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/0000000?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
+  </a> -->
 </p>
 
 <p align="left"> 
@@ -44,7 +44,7 @@
 </p>
 
 <div align="left">
-  <img width=400 alt="Visitor Stats" src="https://widgetbite.com/stats/yuyuyu2118"/>
+<!--   <img width=400 alt="Visitor Stats" src="https://widgetbite.com/stats/yuyuyu2118"/> -->
   <img width=400 src="https://github-profile-trophy.vercel.app/?username=yuyuyu2118&row=3&column=3&no-frame=true"/>
 </div>
 
@@ -69,19 +69,23 @@
 
 ## フロントエンド
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,vite,react,nextjs,sass,tailwind&perline=19)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,vite,react,nextjs,sass,tailwind&perline=19)](https://skillicons.dev)-->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind&perline=19)](https://skillicons.dev)
 
 ## バックエンド
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,python,nodejs,express,fastapi&perline=19)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=go,java,python,nodejs,express,fastapi&perline=19)](https://skillicons.dev)-->
+[![My Skills](https://skillicons.dev/icons?i=go,python,nodejs,express,fastapi&perline=19)](https://skillicons.dev)
 
 ## エディタ
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,eclipse,md&perline=19)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,eclipse,md&perline=19)](https://skillicons.dev)-->
+[![My Skills](https://skillicons.dev/icons?i=vscode,md&perline=19)](https://skillicons.dev)
 
 ## ツール/環境
 
-[![My Skills](https://skillicons.dev/icons?i=github,postman,docker,powershell,figma,codepen,webpack,babel&perline=19)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=github,postman,docker,powershell,figma,codepen,webpack,babel&perline=19)](https://skillicons.dev)-->
+[![My Skills](https://skillicons.dev/icons?i=github,postman,docker,powershell&perline=19)](https://skillicons.dev)
 
 ## データベース
 
